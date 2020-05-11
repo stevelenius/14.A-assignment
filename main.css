@@ -99,7 +99,28 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
+html {
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    background: rgb(240, 215, 184);
+    color: #000;
+}
+    
+p {
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+}
+  
+h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+  
 
 
 
